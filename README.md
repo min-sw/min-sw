@@ -1,4 +1,4 @@
-# Rachel Min
+# Se Won __Rachel__ Min
 
 Design Technology | BIM | Automation | Data + AI in AEC
 
