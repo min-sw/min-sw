@@ -1,16 +1,19 @@
-## Hi there 👋
+# Rachel Min
 
-<!--
-**min-sw/min-sw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Design Technology | BIM | Automation | Data + AI in AEC
 
-Here are some ideas to get you started:
+I work at the intersection of architecture and technology, building tools and workflows that help design teams work more efficiently and make better use of their data. Most of my work is developed and used internally across active projects, focused on improving day to day workflows and decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+* BIM workflows and Revit optimization
+* Dynamo and Python automation
+* Data analysis and dashboards (Power BI, SQL)
+* Exploring practical uses of AI in AEC
+
+## Currently exploring
+
+* How AI can fit into real project workflows
+* Ongoing development of internal tools for design teams
+* Open data and urban analytics
+* Building more connected, data-driven design systems
