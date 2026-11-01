@@ -1,8 +1,12 @@
 # Se Won __Rachel__ Min
 
-Design Technology | BIM | Automation | Data + AI in AEC
+Design Technology | AI Transformation | Construction Technology | BIM | Data in AEC
 
-I work at the intersection of architecture and technology, building tools and workflows that help design teams work more efficiently and make better use of their data. Most of my work is developed and used internally across active projects, focused on improving day to day workflows and decision-making.
+I work at the intersection of AI, construction technology, and enterprise transformation.
+I research, evaluate, and build AI-enabled tools that solve real operational challenges, and lead technology adoption through implementation, training, change management, and performance measurement.
+
+My work spans architecture, engineering, and construction, combining hands-on application development with enterprise technology strategy and data-driven decision-making.
+Most of my production work is developed internally, so this GitHub highlights selected technical explorations and non-confidential projects.
 
 ## What I do
 
