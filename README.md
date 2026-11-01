@@ -6,10 +6,11 @@ I work at the intersection of architecture and technology, building tools and wo
 
 ## What I do
 
+* Exploring practical uses of AI in AEC
 * BIM workflows and Revit optimization
 * Dynamo and Python automation
 * Data analysis and dashboards (Power BI, SQL)
-* Exploring practical uses of AI in AEC
+* Building web apps for information and knowledge management
 
 ## Currently exploring
 
